@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
-- 🌱 Currently learning ReactJs
-- :metal: Looking to collaborate on projects
-- 🤓 Native in spanish, fluent in english and I know a little bit of japanese  
+- 👨‍💻 Main tools: ReactJs, Material UI.
+- :metal: Looking to collaborate on projects.
+- 🤓 Native in spanish and fluent in english.
 
 
