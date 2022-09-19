@@ -2,6 +2,6 @@
 
 - 👨‍💻 Main tools: ReactJs, Material UI.
 - :metal: Looking to collaborate on projects.
-- 🤓 Native in spanish and fluent in english.
+- 🤓 My mothertongue is spanish but I'm fluent in english.
 
 
